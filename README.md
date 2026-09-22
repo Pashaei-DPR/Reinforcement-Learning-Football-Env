@@ -1,3 +1,5 @@
+Old paper
+------------------------------------------------------------------------------------
 Short-Term Gains vs. Long-Term Success: Reward Strategy Design for Reinforcement Learning in Football
 
 https://scholar.google.com/scholar?oi=bibs&cluster=6960816829086480145&btnI=1&hl=en
