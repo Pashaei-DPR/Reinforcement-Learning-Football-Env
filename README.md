@@ -29,7 +29,7 @@ ___________________________________________
 
 # Grid Football 5v5: Multi-Agent RL Simulation
 
-This repository contains a custom 4v4 grid-football simulation environment built for Multi-Agent Reinforcement Learning (MARL). The project features a pure-NumPy physics engine wrapped in a PettingZoo `ParallelEnv`, trained using Independent Proximal Policy Optimization (IPPO) via Stable-Baselines3's `MaskablePPO`.
+This repository contains a custom 5v5 grid-football simulation environment built for Multi-Agent Reinforcement Learning (MARL). The project features a pure-NumPy physics engine wrapped in a PettingZoo `ParallelEnv`, trained using Independent Proximal Policy Optimization (IPPO) via Stable-Baselines3's `MaskablePPO`.
 
 ## Core Features
 
