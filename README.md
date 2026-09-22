@@ -23,7 +23,7 @@ Soccer Simulation.
 
 ___________________________________________
 
-              New release
+              latest Version V8
 ___________________________________________
 <img width="995" height="881" alt="image" src="https://github.com/user-attachments/assets/49617df7-6283-4bb5-a8b3-baccab552a40" />
 
