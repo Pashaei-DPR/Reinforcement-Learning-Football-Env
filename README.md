@@ -1,5 +1,6 @@
-Global-Context Critic: Asymmetric Actor-Critic for Multi-Agent Football Simulation  accepted at Journal of Algorithms and Computation
+Global-Context Critic: Asymmetric Actor-Critic for Multi-Agent Football Simulation 
 ------------------------------------------------------------------------------------
+Accepted at Journal of Algorithms and Computation
 [Manuscript](https://github.com/Pashaei-DPR/Reinforcement-Learning-Football-Env/releases/download/v8.0.0/Global-Context.Critic.Asymmetric.Actor-Critic.for.Multi-Agent.Football.Simulation.pdf)
 
 
