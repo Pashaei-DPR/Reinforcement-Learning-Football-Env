@@ -2,7 +2,7 @@ Global-Context Critic: Asymmetric Actor-Critic for Multi-Agent Football Simulati
 ------------------------------------------------------------------------------------
 Accepted at Journal of Algorithms and Computation
 [Manuscript](https://github.com/Pashaei-DPR/Reinforcement-Learning-Football-Env/releases/download/v8.0.0/Global-Context.Critic.Asymmetric.Actor-Critic.for.Multi-Agent.Football.Simulation.pdf)
-
+Abstract—Multi-Agent Reinforcement Learning (MARL) in partially observable football environments faces significant challenges in team coordination. This study investigates the impact of global opponent tactical information on decentralized policy learning, addressing its potential benefits and risks of redundant information and observational overfitting. The problem is formulated as a Decentralized Partially Observable Markov Decision Process (Dec-POMDP), employing Independent Proximal Policy Optimization (IPPO) with parameter sharing and action masking. Three architectures are evaluated: a tactic-agnostic baseline, a symmetric tactic-aware actor-critic, and a proposed asymmetric architecture, the Global-Context Critic, which provides global tactical information exclusively to the critic during training. Results show comparable win rates for the asymmetric model and baseline (98.99% and 96.97%, respectively), while the symmetric model achieves only 66.67%. However, the key advantage of the Global-Context Critic is sample efficiency, reaching a performance plateau at approximately 1,900 rollouts, substantially earlier than the baseline, which remains unconverged after 600 additional rollouts.
 
 Old paper
 ------------------------------------------------------------------------------------
