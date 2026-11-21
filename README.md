@@ -1,3 +1,8 @@
+Global-Context Critic: Asymmetric Actor-Critic for Multi-Agent Football Simulation  accepted at Journal of Algorithms and Computation
+------------------------------------------------------------------------------------
+[Manuscript](https://github.com/Pashaei-DPR/Reinforcement-Learning-Football-Env/releases/download/v8.0.0/Global-Context.Critic.Asymmetric.Actor-Critic.for.Multi-Agent.Football.Simulation.pdf)
+
+
 Old paper
 ------------------------------------------------------------------------------------
 Short-Term Gains vs. Long-Term Success: Reward Strategy Design for Reinforcement Learning in Football
